@@ -1,0 +1,14 @@
+/Users/mac/Desktop/Damian/sudamericano/POO/hola-net/bin/Debug/net8.0/hola-net
+/Users/mac/Desktop/Damian/sudamericano/POO/hola-net/bin/Debug/net8.0/hola-net.deps.json
+/Users/mac/Desktop/Damian/sudamericano/POO/hola-net/bin/Debug/net8.0/hola-net.runtimeconfig.json
+/Users/mac/Desktop/Damian/sudamericano/POO/hola-net/bin/Debug/net8.0/hola-net.dll
+/Users/mac/Desktop/Damian/sudamericano/POO/hola-net/bin/Debug/net8.0/hola-net.pdb
+/Users/mac/Desktop/Damian/sudamericano/POO/hola-net/obj/Debug/net8.0/hola-net.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Damian/sudamericano/POO/hola-net/obj/Debug/net8.0/hola-net.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Damian/sudamericano/POO/hola-net/obj/Debug/net8.0/hola-net.AssemblyInfo.cs
+/Users/mac/Desktop/Damian/sudamericano/POO/hola-net/obj/Debug/net8.0/hola-net.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Damian/sudamericano/POO/hola-net/obj/Debug/net8.0/hola-net.dll
+/Users/mac/Desktop/Damian/sudamericano/POO/hola-net/obj/Debug/net8.0/refint/hola-net.dll
+/Users/mac/Desktop/Damian/sudamericano/POO/hola-net/obj/Debug/net8.0/hola-net.pdb
+/Users/mac/Desktop/Damian/sudamericano/POO/hola-net/obj/Debug/net8.0/hola-net.genruntimeconfig.cache
+/Users/mac/Desktop/Damian/sudamericano/POO/hola-net/obj/Debug/net8.0/ref/hola-net.dll
