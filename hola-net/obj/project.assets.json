@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mac/Desktop/Damian/sudamericano/POO/hola-net/hola-net.csproj",
+      "projectUniqueName": "/Users/mac/Desktop/Damian/sudamericano/POO/hola-3mundo/hola-net/hola-net.csproj",
       "projectName": "hola-net",
-      "projectPath": "/Users/mac/Desktop/Damian/sudamericano/POO/hola-net/hola-net.csproj",
+      "projectPath": "/Users/mac/Desktop/Damian/sudamericano/POO/hola-3mundo/hola-net/hola-net.csproj",
       "packagesPath": "/Users/mac/.nuget/packages/",
-      "outputPath": "/Users/mac/Desktop/Damian/sudamericano/POO/hola-net/obj/",
+      "outputPath": "/Users/mac/Desktop/Damian/sudamericano/POO/hola-3mundo/hola-net/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mac/.nuget/NuGet/NuGet.Config"
